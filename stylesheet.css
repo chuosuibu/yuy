@@ -1,0 +1,64 @@
+*{
+  margin: 10;
+  padding: 10;
+}
+html{
+  height: 100%
+}
+
+body{
+  background-color: #ffffff;
+}
+h1{
+  border: 2px solid black;
+  text-align: center;
+  letter-spacing: 20px;
+}
+#kinkanmatome{
+  border: 2px solid black;
+  padding: 10px;
+}
+.itiran{
+  text-align: center;
+}
+
+#trp,#trb,#hrn,#euph,#tub,#fl,#ob,#cl,#sax,#conbass{
+  border: 2px solid black;
+  padding: 10px;
+  margin: 10px, 10px, 10px, 10px; /*上、右、下、左*/
+  letter-spacing: 7px;
+}
+.marker{
+  background-image: linear-gradient(transparent 50%,#ffcc11 50%);
+}
+/*ナビゲーション*/
+nav{
+  padding-bottom: 10px;  
+  border: 2px solid black;
+}
+
+nav ul {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 40px;
+}
+
+nav a {
+  color: black;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #ffcc11;
+  background-position: -100% 0;
+  background-image: linear-gradient(to right, transparent 50%, #33ddcc 50%);
+  background-position: 0 0;
+  background-size: 200% auto;
+  transition: 0.3s;
+}
+
