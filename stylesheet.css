@@ -22,7 +22,7 @@ h1{
   text-align: center;
 }
 
-#trp,#trb,#hrn,#euph,#tub,#fl,#ob,#cl,#sax,#conbass{
+#trp,#trb,#hrn,#euph,#tub,#fl,#ob,#cl,#sax,#conbass,#perc{
   border: 2px solid black;
   padding: 10px;
   margin: 10px, 10px, 10px, 10px; /*上、右、下、左*/
