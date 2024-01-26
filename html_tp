@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Next Page</title>
+</head>
+<body>
+<h1>TRUMPTET</h1>
+<p>ここではトランペットパートについて紹介していきます。</p>
+<div class="shoukaitp">
+<ol>
+<li>一年唯一の女子トランペッター、miu</li>
+<li>あまりにもともき、tomoki</li>
+<li>ほとんど総探、sonta</li>
+</ol>
+</div>
+<div class="kozintp">
+<h3 class=nametp>
+MIU
+</h3>
+<p>
+一緒にアンコン頑張りました
+</p>
+<h3 class="nametp">
+TOMOKI(KOUKI)
+</h3>
+<P>
+本当はともきってあだ名なんです
+</P>
+<h3 class="nametp">
+SOUTA
+</h3>
+<p>
+「souta」に「n」を一つつけるだけで「soutan」ですね
+</p>
+</div>
+<a href="index.html">Back to top</a>
+</body>
+<footer>
+  &copy; nakamura
+</footer>
+</html>
