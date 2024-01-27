@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Next Page</title>
+</head>
+<body>
+<h1>HORN</h1>
+<p>ここではホルンパートについて紹介していきます。</p>
+<div class="shoukaihrn"><!--partの紹介-->
+<ol>
+<li>まおちゃんと姉妹でもおかしくない、sae</li>
+<li>さえちゃんと姉妹でもおかしくない、mao</li>
+</ol>
+</div> 
+<div class="kozinhrn"><!--個人の紹介-->
+<h3 class=namehrn>
+SAE
+</h3>
+<p>
+このふたり姉妹属性高すぎるんですよね
+</p>
+<h3 class="namehrn">
+MAO
+</h3>
+<P>
+高音外さないで出せるってききましたよ
+</P>
+</div>
+<a href="index.html">Back to top</a>
+</body>
+<footer>
+  &copy; nakamura
+</footer>
+</html>
+
