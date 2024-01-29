@@ -62,3 +62,12 @@ nav a:hover {
   transition: 0.3s;
 }
 
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.flex>p{
+    width: 49%;
+}
+
+
